@@ -1,0 +1,53 @@
+#inti {
+  padding: auto;
+  text-align: center;
+}
+#actrizen {
+  text-align: center;
+}
+#logtrizen {
+  text-align: center;
+}
+#spotrizen {
+  text-align: center;
+}
+#optrizen{
+  text-align: center;
+}
+#sumptrizen{
+  text-align: center;
+}
+#prtrizen{
+  text-align: center;
+}
+#doctrizen{
+  text-align: center;
+}
+.tanggal {
+  margin-top: 7rem;
+}
+#Content{
+  margin-top: 7rem;
+}
+.carousel-item img {
+  width: auto;
+  height: 700px;
+}
+.sidebarleft{
+  padding-right: 4rem;
+  flex: 1;
+  order: 1;
+}
+.sidebarright{
+  padding-left: 4rem;
+  flex: 1;
+  order: 3;
+}
+.maincontent{
+  flex: 4;
+  order: 2;
+}
+.btn{
+  justify-content: center;
+}
+
