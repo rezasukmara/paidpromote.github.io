@@ -29,10 +29,6 @@
 #Content{
   margin-top: 7rem;
 }
-.carousel-item img {
-  width: auto;
-  height: 700px;
-}
 .sidebarleft{
   padding-right: 4rem;
   flex: 1;
